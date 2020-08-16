@@ -1,0 +1,6 @@
+.content
+{
+    grid-area: c;
+    background-color: blue;
+    padding: 20px;
+}

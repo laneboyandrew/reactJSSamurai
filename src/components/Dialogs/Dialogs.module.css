@@ -1,0 +1,40 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    background: white;
+
+}
+.dialogs button {
+    position: absolute;
+    left: 460px;
+}
+
+.dialogsItems {
+    color: black;
+}
+
+.dialogsItems .active {
+    color: black;
+
+}
+
+.messages {
+    padding: 10px;
+    color: darkblue;
+}
+
+.messages .message {
+    color:white;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
+
+.addQuestionButton {
+    margin-left: 100px;
+}
+
+.addAnswerButton {
+
+}
